@@ -1,0 +1,90 @@
+{
+  "race_days": 24,
+  "hourly_rows": 576,
+  "warmest_day_mean": {
+    "race_name": "Saudi Arabian Grand Prix",
+    "race_date": "2025-04-20",
+    "value": 32.07083333333333
+  },
+  "coolest_day_mean": {
+    "race_name": "Japanese Grand Prix",
+    "race_date": "2025-04-06",
+    "value": 13.737499999999999
+  },
+  "wettest_day": {
+    "race_name": "Miami Grand Prix",
+    "race_date": "2025-05-04",
+    "value": 24.2
+  },
+  "windiest_day_mean": {
+    "race_name": "Azerbaijan Grand Prix",
+    "race_date": "2025-09-21",
+    "value": 34.329166666666666
+  },
+  "most_humid_day_mean": {
+    "race_name": "Belgian Grand Prix",
+    "race_date": "2025-07-27",
+    "value": 89.70833333333333
+  },
+  "days_with_any_precipitation": 11,
+  "days_with_at_least_1mm": 7,
+  "wet_hours_any_positive_mm": 119,
+  "sum_precipitation_across_24_locations_mm": 92.9,
+  "race_day_mean_temperature_average_c": 20.456597222222225,
+  "race_day_mean_temperature_sample_sd_c": 4.43240239569731,
+  "overall_hourly_min_temperature_c": 8.5,
+  "overall_hourly_max_temperature_c": 36.6,
+  "pearson_n": 24,
+  "pearson_correlations": {
+    "temperature_mean_c": {
+      "temperature_mean_c": 1.0,
+      "relative_humidity_mean_pct": -0.35365470839397567,
+      "precipitation_total_mm": -0.23322484966821772,
+      "wind_speed_mean_kmh": 0.004552331510676879
+    },
+    "relative_humidity_mean_pct": {
+      "temperature_mean_c": -0.35365470839397567,
+      "relative_humidity_mean_pct": 1.0,
+      "precipitation_total_mm": 0.5118671724432662,
+      "wind_speed_mean_kmh": 0.039981062521115496
+    },
+    "precipitation_total_mm": {
+      "temperature_mean_c": -0.23322484966821772,
+      "relative_humidity_mean_pct": 0.5118671724432662,
+      "precipitation_total_mm": 1.0,
+      "wind_speed_mean_kmh": -0.02436003058166997
+    },
+    "wind_speed_mean_kmh": {
+      "temperature_mean_c": 0.004552331510676879,
+      "relative_humidity_mean_pct": 0.039981062521115496,
+      "precipitation_total_mm": -0.02436003058166997,
+      "wind_speed_mean_kmh": 1.0
+    }
+  },
+  "spearman_correlations": {
+    "temperature_mean_c": {
+      "temperature_mean_c": 1.0,
+      "relative_humidity_mean_pct": -0.24874973408216872,
+      "precipitation_total_mm": -0.42935013439934033,
+      "wind_speed_mean_kmh": 0.0017391304347826088
+    },
+    "relative_humidity_mean_pct": {
+      "temperature_mean_c": -0.24874973408216872,
+      "relative_humidity_mean_pct": 1.0,
+      "precipitation_total_mm": 0.7583991202332621,
+      "wind_speed_mean_kmh": 0.056099153315733855
+    },
+    "precipitation_total_mm": {
+      "temperature_mean_c": -0.42935013439934033,
+      "relative_humidity_mean_pct": 0.7583991202332621,
+      "precipitation_total_mm": 1.0,
+      "wind_speed_mean_kmh": 0.26917315269186015
+    },
+    "wind_speed_mean_kmh": {
+      "temperature_mean_c": 0.0017391304347826088,
+      "relative_humidity_mean_pct": 0.056099153315733855,
+      "precipitation_total_mm": 0.26917315269186015,
+      "wind_speed_mean_kmh": 1.0
+    }
+  }
+}

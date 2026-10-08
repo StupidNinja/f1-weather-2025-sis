@@ -1,0 +1,13 @@
+.vendor/
+.venv/
+__pycache__/
+.pytest_cache/
+.ipynb_checkpoints/
+.jupyter/
+.DS_Store
+report/qa/
+report/sources/
+report/build_documents.py
+report/verify_evidence.py
+notebook_execution.log
+*.zip

@@ -1,0 +1,74 @@
+01/24 Australian Grand Prix: 24 local-day hours
+02/24 Chinese Grand Prix: 24 local-day hours
+03/24 Japanese Grand Prix: 24 local-day hours
+04/24 Bahrain Grand Prix: 24 local-day hours
+05/24 Saudi Arabian Grand Prix: 24 local-day hours
+06/24 Miami Grand Prix: 24 local-day hours
+07/24 Emilia Romagna Grand Prix: 24 local-day hours
+08/24 Monaco Grand Prix: 24 local-day hours
+09/24 Spanish Grand Prix: 24 local-day hours
+10/24 Canadian Grand Prix: 24 local-day hours
+11/24 Austrian Grand Prix: 24 local-day hours
+12/24 British Grand Prix: 24 local-day hours
+13/24 Belgian Grand Prix: 24 local-day hours
+14/24 Hungarian Grand Prix: 24 local-day hours
+15/24 Dutch Grand Prix: 24 local-day hours
+16/24 Italian Grand Prix: 24 local-day hours
+17/24 Azerbaijan Grand Prix: 24 local-day hours
+18/24 Singapore Grand Prix: 24 local-day hours
+19/24 United States Grand Prix: 24 local-day hours
+20/24 Mexico City Grand Prix: 24 local-day hours
+21/24 São Paulo Grand Prix: 24 local-day hours
+22/24 Las Vegas Grand Prix: 24 local-day hours
+23/24 Qatar Grand Prix: 24 local-day hours
+24/24 Abu Dhabi Grand Prix: 24 local-day hours
+{
+  "races": 24,
+  "hourly_rows": 576,
+  "daily_rows": 24,
+  "expected_hourly_rows": 576,
+  "expected_hours_by_round": {
+    "1": 24,
+    "2": 24,
+    "3": 24,
+    "4": 24,
+    "5": 24,
+    "6": 24,
+    "7": 24,
+    "8": 24,
+    "9": 24,
+    "10": 24,
+    "11": 24,
+    "12": 24,
+    "13": 24,
+    "14": 24,
+    "15": 24,
+    "16": 24,
+    "17": 24,
+    "18": 24,
+    "19": 24,
+    "20": 24,
+    "21": 24,
+    "22": 24,
+    "23": 24,
+    "24": 24
+  },
+  "duplicate_race_hour_keys": 0,
+  "missing_weather_values": {
+    "temperature_c": 0,
+    "relative_humidity_pct": 0,
+    "precipitation_mm": 0,
+    "wind_speed_kmh": 0
+  },
+  "all_rows_on_local_race_date": true,
+  "precipitation_boundary_aligned": true,
+  "imputed_weather_values": 0,
+  "model": "ERA5",
+  "timezone_request": "auto",
+  "raw_source_count": 50,
+  "raw_response_rows": 1152,
+  "wikipedia_pages": 25,
+  "api_responses": 24,
+  "precipitation_intervals": "[timestamp_local, precipitation_interval_end_local)",
+  "notes": "All raw hours are retained for provenance; only race-day instants and their forward precipitation intervals enter the cleaned table."
+}

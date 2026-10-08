@@ -1,0 +1,25 @@
+round,race_name,circuit,race_date,circuit_url,calendar_source_url,latitude,longitude
+1,Australian Grand Prix,Albert Park Circuit,2025-03-16,https://en.wikipedia.org/wiki/Albert_Park_Circuit,https://en.wikipedia.org/wiki/2025_Formula_One_World_Championship,-37.84972000,144.96833000
+2,Chinese Grand Prix,Shanghai International Circuit,2025-03-23,https://en.wikipedia.org/wiki/Shanghai_International_Circuit,https://en.wikipedia.org/wiki/2025_Formula_One_World_Championship,31.33889000,121.21972000
+3,Japanese Grand Prix,Suzuka Circuit,2025-04-06,https://en.wikipedia.org/wiki/Suzuka_Circuit,https://en.wikipedia.org/wiki/2025_Formula_One_World_Championship,34.84170000,136.53890000
+4,Bahrain Grand Prix,Bahrain International Circuit,2025-04-13,https://en.wikipedia.org/wiki/Bahrain_International_Circuit,https://en.wikipedia.org/wiki/2025_Formula_One_World_Championship,26.03250000,50.51056000
+5,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,2025-04-20,https://en.wikipedia.org/wiki/Jeddah_Corniche_Circuit,https://en.wikipedia.org/wiki/2025_Formula_One_World_Championship,21.63194000,39.10444000
+6,Miami Grand Prix,Miami International Autodrome,2025-05-04,https://en.wikipedia.org/wiki/Miami_International_Autodrome,https://en.wikipedia.org/wiki/2025_Formula_One_World_Championship,25.95806000,-80.23889000
+7,Emilia Romagna Grand Prix,Imola Circuit,2025-05-18,https://en.wikipedia.org/wiki/Imola_Circuit,https://en.wikipedia.org/wiki/2025_Formula_One_World_Championship,44.34111000,11.71333000
+8,Monaco Grand Prix,Circuit de Monaco,2025-05-25,https://en.wikipedia.org/wiki/Circuit_de_Monaco,https://en.wikipedia.org/wiki/2025_Formula_One_World_Championship,43.73472000,7.42056000
+9,Spanish Grand Prix,Circuit de Barcelona-Catalunya,2025-06-01,https://en.wikipedia.org/wiki/Circuit_de_Barcelona-Catalunya,https://en.wikipedia.org/wiki/2025_Formula_One_World_Championship,41.57000000,2.26111000
+10,Canadian Grand Prix,Circuit Gilles Villeneuve,2025-06-15,https://en.wikipedia.org/wiki/Circuit_Gilles_Villeneuve,https://en.wikipedia.org/wiki/2025_Formula_One_World_Championship,45.50056000,-73.52250000
+11,Austrian Grand Prix,Red Bull Ring,2025-06-29,https://en.wikipedia.org/wiki/Red_Bull_Ring,https://en.wikipedia.org/wiki/2025_Formula_One_World_Championship,47.21972000,14.76472000
+12,British Grand Prix,Silverstone Circuit,2025-07-06,https://en.wikipedia.org/wiki/Silverstone_Circuit,https://en.wikipedia.org/wiki/2025_Formula_One_World_Championship,52.07100000,-1.01600000
+13,Belgian Grand Prix,Circuit de Spa-Francorchamps,2025-07-27,https://en.wikipedia.org/wiki/Circuit_de_Spa-Francorchamps,https://en.wikipedia.org/wiki/2025_Formula_One_World_Championship,50.43722000,5.97139000
+14,Hungarian Grand Prix,Hungaroring,2025-08-03,https://en.wikipedia.org/wiki/Hungaroring,https://en.wikipedia.org/wiki/2025_Formula_One_World_Championship,47.58222000,19.25111000
+15,Dutch Grand Prix,Circuit Zandvoort,2025-08-31,https://en.wikipedia.org/wiki/Circuit_Zandvoort,https://en.wikipedia.org/wiki/2025_Formula_One_World_Championship,52.38889000,4.54083000
+16,Italian Grand Prix,Monza Circuit,2025-09-07,https://en.wikipedia.org/wiki/Monza_Circuit,https://en.wikipedia.org/wiki/2025_Formula_One_World_Championship,45.62056000,9.28944000
+17,Azerbaijan Grand Prix,Baku City Circuit,2025-09-21,https://en.wikipedia.org/wiki/Baku_City_Circuit,https://en.wikipedia.org/wiki/2025_Formula_One_World_Championship,40.37250000,49.85333000
+18,Singapore Grand Prix,Marina Bay Street Circuit,2025-10-05,https://en.wikipedia.org/wiki/Marina_Bay_Street_Circuit,https://en.wikipedia.org/wiki/2025_Formula_One_World_Championship,1.29153060,103.86385000
+19,United States Grand Prix,Circuit of the Americas,2025-10-19,https://en.wikipedia.org/wiki/Circuit_of_the_Americas,https://en.wikipedia.org/wiki/2025_Formula_One_World_Championship,30.13278000,-97.64111000
+20,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,2025-10-26,https://en.wikipedia.org/wiki/Autódromo_Hermanos_Rodríguez,https://en.wikipedia.org/wiki/2025_Formula_One_World_Championship,19.40611000,-99.09250000
+21,São Paulo Grand Prix,Interlagos Circuit,2025-11-09,https://en.wikipedia.org/wiki/Interlagos_Circuit,https://en.wikipedia.org/wiki/2025_Formula_One_World_Championship,-23.70111000,-46.69722000
+22,Las Vegas Grand Prix,Las Vegas Strip Circuit,2025-11-22,https://en.wikipedia.org/wiki/Las_Vegas_Strip_Circuit,https://en.wikipedia.org/wiki/2025_Formula_One_World_Championship,36.10995000,-115.16217000
+23,Qatar Grand Prix,Lusail International Circuit,2025-11-30,https://en.wikipedia.org/wiki/Lusail_International_Circuit,https://en.wikipedia.org/wiki/2025_Formula_One_World_Championship,25.49000000,51.45417000
+24,Abu Dhabi Grand Prix,Yas Marina Circuit,2025-12-07,https://en.wikipedia.org/wiki/Yas_Marina_Circuit,https://en.wikipedia.org/wiki/2025_Formula_One_World_Championship,24.46722000,54.60306000
